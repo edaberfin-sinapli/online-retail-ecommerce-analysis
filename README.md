@@ -12,3 +12,11 @@ End-to-end data analysis project using Python on online retail data.
 - RFM Analysis
 - Market Basket Analysis
 - KPI Dashboard & Executive Summary
+
+## Data Source
+
+- Dataset: Online Retail II (UCI Machine Learning Repository)  
+- Source: Kaggle  
+- Link: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci  
+- Note: The dataset is not included in this repository due to file size limitations.  
+  To reproduce the analysis, please download the dataset from Kaggle and place it under the `data/` directory.
