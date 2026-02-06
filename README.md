@@ -1,4 +1,4 @@
-# online-retail-ecommerce-analysis
+# Online Retail E-Commerce Analysis (Python)
 End-to-end data analysis project using Python on online retail data.
 
 ## Analysis Scope
