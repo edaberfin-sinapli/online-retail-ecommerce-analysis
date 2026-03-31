@@ -1,22 +1,25 @@
 # Online Retail E-Commerce Analysis (Python)
-End-to-end data analysis project using Python on online retail data.
+Bu proje, bir e-ticaret veri seti üzerinde uçtan uca veri analizi gerçekleştirmek amacıyla hazırlanmıştır.  
+Python kullanılarak veri temizleme, veri hazırlama ve analiz süreçleri yürütülmüş; iş kararlarını destekleyecek içgörüler elde edilmiştir.
 
-## Analysis Scope
-- Data Cleaning & Preparation
-- Order-Level Analysis
-- Product Performance Analysis
-- Customer Behavior Analysis
-- Time Series & Seasonality Analysis
-- Country / Regional Performance Analysis
-- Price & Revenue Analysis
-- RFM Analysis
-- Market Basket Analysis
-- KPI Dashboard & Executive Summary
+## Analiz Kapsamı
 
-## Data Source
+Proje kapsamında aşağıdaki analizler gerçekleştirilmiştir:
+- Data Cleaning & Preparation (Veri Temizleme ve Hazırlama)  
+- Order-Level Analysis (Sipariş Bazlı Analizler)  
+- Product Performance Analysis (Ürün Performans Analizi)  
+- Customer Behavior Analysis (Müşteri Davranışı Analizi)  
+- Time Series & Seasonality Analysis (Zaman Serisi ve Mevsimsellik Analizi)  
+- Country / Regional Performance Analysis (Ülke / Bölge Bazlı Performans Analizi)  
+- Price & Revenue Analysis (Fiyat ve Gelir Analizi)  
+- RFM Analysis (RFM Analizi (Müşteri Segmentasyonu))  
+- Market Basket Analysis (Sepet Analizi)  
+- KPI Dashboard & Executive Summary (KPI Dashboard ve Yönetici Özeti)
 
-- Dataset: Online Retail II (UCI Machine Learning Repository)  
-- Source: Kaggle  
+## Veri Kaynağı
+
+- Veri Seti: Online Retail II  
+- Kaynak: Kaggle  
 - Link: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci  
-- Note: The dataset is not included in this repository due to file size limitations.  
-  To reproduce the analysis, please download the dataset from Kaggle and place it under the `data/` directory.
+- Not: Veri seti dosya boyutu nedeniyle bu repo içerisinde yer almamaktadır.  
+  Analizi tekrar edebilmek için veri setini indirip data/ klasörüne eklemeniz gerekmektedir.
